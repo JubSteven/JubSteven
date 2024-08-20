@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently an undergraduate student in SJTU, and I am interested in generalizable VLMs and 3D computer vision as well as intersection with robotics.
+I'm currently an undergraduate student in SJTU, and I am interested in generalizable VLMs and 3D computer vision as well as intersection with robotics. Feel free to contact me for discussion!
 
 <!--
   <p align="center"> 
@@ -13,6 +13,6 @@ I'm currently an undergraduate student in SJTU, and I am interested in generaliz
  
   <img src="https://github-readme-stats.vercel.app/api?username=JubSteven&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lijiaxin0111&style=compact?hide=c" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubSteven&style=compact?hide=c" />
 
 </p>
