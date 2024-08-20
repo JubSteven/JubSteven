@@ -1,16 +1,18 @@
 ## Hi there 👋
 
+I'm currently an undergraduate student in SJTU, and I am interested in generalizable VLMs and 3D computer vision as well as intersection with robotics.
+
 <!--
-**JubSteven/JubSteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Lijiaxin0111/count.svg" />
+</p>
 -->
+
+<p align="center"> 
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=Lijiaxin0111&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lijiaxin0111&style=compact?hide=c" />
+
+</p>
