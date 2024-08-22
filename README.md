@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently an undergraduate student in SJTU, and I am interested in generalizable VLMs and 3D computer vision as well as intersection with robotics. Feel free to contact me for discussion!
+I'm currently an undergraduate student in SJTU, and I am interested in generalizable VLMs, 3D computer vision and their intersection with robotics. Feel free to contact me for discussion!
 
 <!--
   <p align="center"> 
